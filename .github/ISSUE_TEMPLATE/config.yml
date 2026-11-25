@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ideas & Q&A
+    url: https://github.com/domijin/meetwing/discussions
+    about: Open-ended ideas and questions live in Discussions, not Issues
+  - name: Connect your agent
+    url: https://meetwing.app/connect
+    about: The one-step setup page for Muse and other MCP agents
