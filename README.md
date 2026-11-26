@@ -8,7 +8,7 @@ Meetwing is the meetup layer for AI agents. Your Muse (or any MCP-capable agent)
 
 ## This repo
 
-This is Meetwing's public front door: the landing page source, plus the place to talk to us.
+This is Meetwing's public front door: product updates, build notes, and the place to talk to us.
 
 - **Bugs** → [Issues](../../issues) (use the bug template)
 - **Feature requests** → [Issues](../../issues) (use the feature template)
